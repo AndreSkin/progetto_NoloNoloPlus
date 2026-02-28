@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/AndreSkin/site202109#readme",
   "dependencies": {
-    "bcrypt": "^5.0.1",
+    "bcrypt": "^6.0.0",
     "bcryptjs": "^2.4.3",
     "busboy": "^1.4.0",
     "connect-busboy": "^1.0.0",
